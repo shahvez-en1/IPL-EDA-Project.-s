@@ -77,7 +77,7 @@ The goal of this project is to analyze structured cricket data using Python and 
 1. Clone the repository:
 
 bash
-git clone https://https://github.com/shahvez-en1/IPL-EDA-Project.-s/tree/main
+git clone https://github.com/shahvez-en1/IPL-EDA-Project.-s
 
 
 2. Navigate to the project folder:
